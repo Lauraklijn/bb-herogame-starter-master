@@ -71,3 +71,15 @@ Follow the instructions to implment `resting`, `picking up items` and `equipping
 - Implement fighting an enemy. (how you do it is up to you!)
 
 - When an enemy or weapon gets clicked it gets deleted from the page
+
+
+--------------------------------------------------
+Recap of the week and the homework asignment:
+
+First of all: I am enjoying the coure very much, en I have learned a lot already!
+
+Short recap of my week: The first few day's were a little overwelming. I had the feeling that I was getting behind during the week, becouse I had to get used to the way of learning and also the way questions were asked. But as soon as a few days past, I noticed that some things were falling into place a little bit more, so I could understand them beter.
+
+The homework asignment: I spend a lot of ours doing it (+/- 14 hours). I had not finished the whole reader yet (and the museam app), so I had to catch up a little, before doing the assingment. I googled A LOT, but thats a part of the job (I heard). Section 4 was for now a little bit to much to implement already, and there was 1 instruction in the test witch I could not solve (I added a comment, becouse I thinkt that I was very close, but there is still something missing, and I could not find what).
+
+

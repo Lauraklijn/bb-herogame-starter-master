@@ -21,9 +21,9 @@ const hero = {
    if (person.health >= 10) {
     alert ("Your health is already up to 100%") 
    } else {
-    person.health = 10; 
+      person.health = 10; 
    }
-    return person;
+     return person;
     };
   
 // added img from html with id
@@ -35,6 +35,7 @@ resetHealth.addEventListener('click', function() {
 })
 
 // -- Gamepart: Picking up items --
+
 // Made a function to 'pickUpItem' to pick up a weapon and add it to the inventory 
 function pickUpItem(person, weapon){
 person.inventory.push(weapon);
@@ -43,21 +44,22 @@ return person;
 
 //added (click)event, to add weapon to the inventory
 const addWeaponToInventory = document.getElementById("dagger")
-// it is not working, should be:
+// it is not working, i can not find out why:
 addWeaponToInventory.addEventListener('click', function() {
   // pickUpItem (person, weapon)
-  // return (hero, weapon)
+  // return (hero, weapon);
 })
 
 
 // -- Gamepart: Equip weapon --
+
 // Created a function "equipWeapon" to put a weapon in to the inventory
 function equipWeapon(person){
   if (person.inventory[0] == null){
-    return null;
+      return null;
   } else {
     person.weapon = person.inventory[0];
-    return person;
+      return person;
   };
 }
 
