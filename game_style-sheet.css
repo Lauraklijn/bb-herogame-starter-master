@@ -1,8 +1,16 @@
-.pictures {
+
+.flex-container {
   display: flex;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 50px;
-}
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: relative; 
+  }
+  
+  img {
+    width:  200px;
+    height: 200px;
+    border-style: solid;
+    border-color: white;
+    }
   
