@@ -1,32 +1,5 @@
 # Beginner Bootcamp Homework
 
-Hello beginner bootcampers. Here is your first formal homework  assignment!
-
-
-**I expect you to do this assignment individually. I will notice if you copy another students code.**  
-To be 100% clear: If I notice you copying other students homework you will get an invoice for the course.  
-Don't discuss the homework in slack
-
-- Download the starter files
-- Make a local git repo and use it to track your work
-- When you're done add a remote and push to your github
-- The link to your repo should look something like: git@github.com:YOURGITHUBUSERNAME/YOURREPONAME.git
-- **Send the link to your repo to teachers@codaisseur.com before Saturday 22:00**
-
-Expectations:
-- I expect you give this homework assignment your best shot.
-- You should be able to complete this homework without my help if there was no time limit.
-- I expect you to spend 6-8 hours on this assignment. You can spend more but prioritize enough sleep, doing laundry etc.
-- I expect people without experience to be able to implement most tests
-- I expect some people with programming experience before this bootcamp to able to finish the whole assignment within the time-limit.
-
-Tips:
-- Use readest, stackoverflow and documentation, w3schools had easy to understand examples.
-- Check the tests on the page for hints
-- Write the code step by step and use console.log() to check yourself  
-- If you can't get a certain test to pass try a different one. **Don't get stuck on a single thing for a whole day.**  
-- You get no points for Extra CSS that is not in the assignment (except the fuzzy feeling in your own brain)
-- If you feel you had a bad result write a reflection on your way of working in the readme of your project.
 
 ## What are we building?
 
@@ -72,14 +45,5 @@ Follow the instructions to implment `resting`, `picking up items` and `equipping
 
 - When an enemy or weapon gets clicked it gets deleted from the page
 
-
---------------------------------------------------
-Recap of the week and the homework asignment:
-
-First of all: I am enjoying the coure very much, en I have learned a lot already!
-
-Short recap of my week: The first few day's were a little overwelming. I had the feeling that I was getting behind during the week, becouse I had to get used to the way of learning and also the way questions were asked. But as soon as a few days past, I noticed that some things were falling into place a little bit more, so I could understand them beter.
-
-The homework asignment: I spend a lot of ours doing it (+/- 14 hours). I had not finished the whole reader yet (and the museam app), so I had to catch up a little, before doing the assingment. I googled A LOT, but thats a part of the job (I heard). Section 4 was for now a little bit to much to implement already, and there was 1 instruction in the test witch I could not solve (I added a comment, becouse I thinkt that I was very close, but there is still something missing, and I could not find what).
 
 
